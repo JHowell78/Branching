@@ -8,5 +8,7 @@
 * `git log --oneline` - Show commit history (compact)
 
 ### Basic Branching
+* `git branch` - Display all branches, show current
 * `git branch branchName` - Create new branch
 * `git checkout -b branchName` - Create and switch to new branch
+* `git checkout branchName` - Retrieve branch content into working directory.
