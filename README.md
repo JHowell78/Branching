@@ -9,3 +9,4 @@
 
 ### Basic Branching
 * `git branch branchName` - Create new branch
+* `git checkout -b branchName` - Create and switch to new branch
